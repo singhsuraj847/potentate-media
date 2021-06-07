@@ -1,0 +1,140 @@
+/* Add New Image Slide CSS Admin */
+.new-image-slide {
+	float:left;
+	height: 160px;
+	width: 160px;
+	overflow: hidden;
+	background-color: #25d815;
+	color: #FFF !important;
+	text-align: center;
+	margin-left:2%;
+	-webkit-box-shadow: 7px 7px 5px 0px rgba(63, 154, 55, 0.5);
+	-moz-box-shadow: 7px 7px 5px 0px rgba(63, 154, 55, 0.5);
+	box-shadow: 7px 7px 5px 0px rgba(63, 154, 55, 0.5);
+	cursor: move !important;
+}
+
+.new-image-slide .dashicons {
+	color : #fff;	
+	width: 100px;
+	height: 100px;
+	margin-top: 22px;
+	text-align: center;
+	border-radius : 15px;	
+	cursor: pointer !important;
+}
+
+.add-text {
+    color: #fff;
+    cursor: pointer;
+    font-family: Georgia,serif;
+    font-size: 30px;
+    height: 40px;
+    margin-bottom: 4%;
+    margin-left: 10px;
+    margin-top: 10%;
+    overflow: hidden;
+    padding-top: 4px;
+    width: 200px;
+}
+
+
+/* All Slider Gallery CSS Admin */
+.imagebox {
+	float: left;
+	width: 100%;
+	margin-left: 20px;
+}
+
+.imagebox .image-slide {
+	margin: 0 5% 5% 0;
+	width:20%;
+	cursor:move;
+	float:left;
+}
+
+.imagebox img {
+	width: 160px;
+	height: 160px;
+	display: block;
+	margin-bottom:10px;
+}
+
+.new-image-slides {
+	margin: 0 15px 15px 0;
+	width: 28%;
+	cursor: move;
+	float: left;
+	-webkit-box-shadow: 10px 10px 5px 0px rgba(234, 39, 39, 1);
+	-moz-box-shadow: 10px 10px 5px 0px rgba(234, 39, 39, 1);
+	box-shadow: 10px 10px 5px 0px rgba(234, 39, 39, 1);	
+}
+
+/* For desktop: */
+@media (max-width:768px) {
+	.imagebox .image-slide {
+		margin: 0 15px 15px 0;
+		padding: 10px;
+		width: 35%;
+		cursor:move;
+		float:left;
+	}
+	.imagebox img {
+		width: 160px;
+		height: 160px;
+	}
+}
+/* For mobile phones: */
+@media (max-width:500px) {
+	.imagebox .image-slide {
+		margin: 0 15px 15px 0;
+		padding: 10px;
+		width:90%;
+		cursor:move;
+		float:left;
+	}
+	.imagebox img {
+		width: 160px;
+		height: 160px;
+	}
+}
+
+/* Settings CSS */
+.input-text-wrap {
+	margin-top: 30px;
+	margin-left: 15px;
+}
+.input-text-wrap input[type=text] {
+	width: 50%;
+	border: 1px solid #3366FF;
+	border-left: 6px solid #3366FF;
+}
+.input-text-wrap input[type=radio] {
+	border: 1px solid #3366FF;
+	margin-bottom: 6px;
+}
+.input-text-wrap label {
+	font-size: 14px;
+	font-weight: bolder;
+}
+/* Delete All Slide Button */
+#remove-all-image-slides {
+	float: right;
+	color: #FFF;
+	border-color: #31b246;
+	background: #31b246;
+	background-color: #31b246;
+	-webkit-box-shadow: inset 0 1px 0 #31b246,0 1px 0 rgba(0,0,0,.08);
+	box-shadow: inset 0 1px 0 #31b246,0 1px 0 rgba(0,0,0,.08);
+	vertical-align: top;
+}
+#remove-image-slide {
+	color: #FFF;
+	margin-left: 4px;
+	border-color: #31b246;
+	background: #31b246;
+	background-color: #31b246;
+	-webkit-box-shadow: inset 0 1px 0 #31b246,0 1px 0 rgba(0,0,0,.08);
+	box-shadow: inset 0 1px 0 #31b246,0 1px 0 rgba(0,0,0,.08);
+	vertical-align: top;
+}

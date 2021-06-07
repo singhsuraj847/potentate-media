@@ -1,0 +1,390 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2018-08-06 14:16+0530\n"
+"PO-Revision-Date: 2018-08-06 14:16+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: hi_IN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.3\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: album-gallery-code.php:87
+msgid "Sorry! No Gallery found "
+msgstr "माफ़ कीजिये! कोई गैलरी नहीं मिली "
+
+#: album-gallery-column-layout.php:75
+msgid "Gallery Column Settings"
+msgstr "गैलरी कॉलम सेटिंग्स"
+
+#: album-gallery-column-layout.php:79
+msgid "Colums On Large Desktops"
+msgstr "बड़े डेस्कटॉप पर कॉलम"
+
+#: album-gallery-column-layout.php:82 album-gallery-column-layout.php:95
+#: album-gallery-column-layout.php:108 album-gallery-column-layout.php:120
+msgid "1 Column Layout."
+msgstr "1 कॉलम लेआउट."
+
+#: album-gallery-column-layout.php:83 album-gallery-column-layout.php:96
+#: album-gallery-column-layout.php:109 album-gallery-column-layout.php:121
+msgid "2 Column Layout."
+msgstr "2 कॉलम लेआउट."
+
+#: album-gallery-column-layout.php:84 album-gallery-column-layout.php:97
+#: album-gallery-column-layout.php:110 album-gallery-column-layout.php:122
+msgid "3 Column Layout."
+msgstr "3 कॉलम लेआउट."
+
+#: album-gallery-column-layout.php:85 album-gallery-column-layout.php:98
+#: album-gallery-column-layout.php:111 album-gallery-column-layout.php:123
+msgid "4 Column Layout."
+msgstr "4 कॉलम लेआउट."
+
+#: album-gallery-column-layout.php:86 album-gallery-column-layout.php:99
+#: album-gallery-column-layout.php:112
+msgid "6 Column Layout."
+msgstr "6 कॉलम लेआउट."
+
+#: album-gallery-column-layout.php:87 album-gallery-column-layout.php:100
+msgid "12 Column Layout."
+msgstr "12 कॉलम लेआउट."
+
+#: album-gallery-column-layout.php:92
+msgid "Colums On Desktops"
+msgstr "डेस्कटॉप पर कॉलम"
+
+#: album-gallery-column-layout.php:105
+msgid "Colums On Tablets"
+msgstr "टैबलेट पर कॉलम"
+
+#: album-gallery-column-layout.php:117
+msgid "Colums On Phones"
+msgstr "फ़ोन पर कॉलम"
+
+#: album-gallery-column-layout.php:133
+msgid "Save Changes."
+msgstr "परिवर्तनों को सुरक्षित करें."
+
+#: album-gallery-settings.php:90
+msgid "1. Loop"
+msgstr "1. लूप"
+
+#: album-gallery-settings.php:94 album-gallery-settings.php:126
+msgid "Yes"
+msgstr "हाँ"
+
+#: album-gallery-settings.php:96 album-gallery-settings.php:128
+msgid "No"
+msgstr "नहीं"
+
+#: album-gallery-settings.php:97
+msgid "Select if the album gallery is loopable"
+msgstr "अगर गैलरी लूपबल है तो चुनें"
+
+#: album-gallery-settings.php:102
+msgid "2. Hide Bars Delay"
+msgstr "2. बार्स विलंब छुपाएं"
+
+#: album-gallery-settings.php:106
+msgid "Sets the hide bars Delay time in seconds."
+msgstr "छुपा सलाखों को सेकंड में विलंब समय सेट करता है."
+
+#: album-gallery-settings.php:110
+msgid "3. Hide Close Button On Mobile"
+msgstr "3. मोबाइल पर बंद करें बटन बंद करें"
+
+#: album-gallery-settings.php:114
+msgid "Hide"
+msgstr "छिपाना"
+
+#: album-gallery-settings.php:116
+msgid "Show"
+msgstr "प्रदर्शन"
+
+#: album-gallery-settings.php:117
+msgid "Select if the Close Button is displayed on mobile."
+msgstr "अगर मोबाइल पर बंद बटन प्रदर्शित होता है तो चुनें."
+
+#: album-gallery-settings.php:122
+msgid "4. Remove Bars On Mobile"
+msgstr "4. मोबाइल पर बार्स निकालें"
+
+#: album-gallery-settings.php:129
+msgid "Select if the gallery bars are displayed on mobile."
+msgstr "अगर गैलरी बार मोबाइल पर प्रदर्शित होते हैं तो चुनें."
+
+#: album-gallery-settings.php:134
+msgid "5. Animation"
+msgstr "5. एनीमेशन"
+
+#: album-gallery-settings.php:137 album-gallery-settings.php:138
+msgid "Wobble."
+msgstr ""
+
+#: album-gallery-settings.php:139
+msgid "Bounce."
+msgstr ""
+
+#: album-gallery-settings.php:140
+msgid "Flash."
+msgstr ""
+
+#: album-gallery-settings.php:141
+msgid "Jello."
+msgstr ""
+
+#: album-gallery-settings.php:142
+msgid "Pulse."
+msgstr ""
+
+#: album-gallery-settings.php:143
+msgid "Rubber Band."
+msgstr ""
+
+#: album-gallery-settings.php:144
+msgid "Shake."
+msgstr ""
+
+#: album-gallery-settings.php:145
+msgid "Tada."
+msgstr ""
+
+#: album-gallery-settings.php:146
+msgid "Swing."
+msgstr ""
+
+#: album-gallery-settings.php:147
+msgid "Roll In."
+msgstr ""
+
+#: album-gallery-settings.php:149
+msgid "Select to apply animation on gallery."
+msgstr "गैलरी पर एनीमेशन लागू करने के लिए चयन करें."
+
+#: album-gallery-settings.php:153
+msgid "6. Hover Effects"
+msgstr "6. होवर प्रभाव"
+
+#: album-gallery-settings.php:157
+msgid "Stacks"
+msgstr "ढेर"
+
+#: album-gallery-settings.php:159
+msgid "None"
+msgstr "कोई नहीं"
+
+#: album-gallery-settings.php:161
+msgid "Overlay"
+msgstr "ओवरले"
+
+#: album-gallery-settings.php:162
+msgid "Select the hover effect to apply."
+msgstr "आवेदन करने के लिए होवर प्रभाव का चयन करें."
+
+#: album-gallery-settings.php:167
+msgid "Upgrade To Premium For All This Album Gallery Settings"
+msgstr "इस एल्बम गैलरी सेटिंग्स के लिए प्रीमियम में अपग्रेड करें"
+
+#: album-gallery-settings.php:168
+msgid "7. Individual Settings"
+msgstr "7. व्यक्तिगत सेटिंग्स"
+
+#: album-gallery-settings.php:169
+msgid "8. Titlebar Settings"
+msgstr "8. टाइटलबार सेटिंग्स"
+
+#: album-gallery-settings.php:170
+msgid "A. Color"
+msgstr "अ. रंग"
+
+#: album-gallery-settings.php:171
+msgid "B. Font Color"
+msgstr "ब. फ़ॉन्ट रंग"
+
+#: album-gallery-settings.php:172
+msgid "C. Font Size"
+msgstr "स. फन्ट आकार"
+
+#: album-gallery-settings.php:173
+msgid "D. Icon Color"
+msgstr "द. आइकन रंग"
+
+#: album-gallery-settings.php:174
+msgid "9. Video Max-Width"
+msgstr "9. वीडियो अधिकतम चौड़ाई"
+
+#: album-gallery-settings.php:175
+msgid "10. Video AutoPlay"
+msgstr "10. वीडियो ऑटोप्ले"
+
+#: docs.php:4
+#, fuzzy
+#| msgid "Search Album Gallery"
+msgid "Welcome to Album Gallery Docs"
+msgstr "एल्बम गैलरी खोजें"
+
+#: docs.php:5
+msgid "Getting started with pluign"
+msgstr ""
+
+#: docs.php:6
+msgid "Follow steps to create & publish slider"
+msgstr ""
+
+#: docs.php:8
+msgid ""
+"Step 1 - Donwload Product<h4>\n"
+"\t\t\t<p>Download the plugin from <a href=\"https://wordpress.org/plugins/new-album-"
+"gallery/\">WordPress.org"
+msgstr ""
+
+#: docs.php:11
+msgid "Step 2 - Install & Activate Plugin"
+msgstr ""
+
+#: docs.php:12
+msgid ""
+"You had downloaded plugin from WordPress.org. Now, login to your WordPress site upload "
+"the plugin and activate."
+msgstr ""
+
+#: docs.php:14
+#, fuzzy
+#| msgid "Update Album Gallery"
+msgid "Step 3 - Create A Gallery"
+msgstr "एल्बम गैलरी अपडेट करें"
+
+#: docs.php:15
+msgid ""
+"Plugin has been installed on site. Now, go plugins menu \"Album Gallery\" and click on "
+"\"Add Add Album Gallery\". Using \"Add Image\" button upload images through media "
+"library. And Set all specific gallery setting like columns, thumbnailsize, loop, "
+"effects etc according to you. Finally click on \"Publish\" button to create gallery."
+msgstr ""
+
+#: docs.php:17
+msgid "Step 4 - Display Gallery On Site"
+msgstr ""
+
+#: docs.php:18
+msgid ""
+"Our new gallery shortcode has been created in last step. Now create a new Page or Post "
+"to display created gallery shortcode on blog."
+msgstr ""
+
+#: docs.php:20
+msgid "Here"
+msgstr ""
+
+#: docs.php:20
+msgid " is your gallery post id."
+msgstr ""
+
+#: docs.php:24
+#, fuzzy
+#| msgid "Album Gallery Not found"
+msgid "Try Album Gallery Premium  Plugin"
+msgstr "एल्बम गैलरी नहीं मिली"
+
+#: docs.php:25
+#, fuzzy
+#| msgid "Album Gallery Not found"
+msgid "Album Gallery Premium Plugin"
+msgstr "एल्बम गैलरी नहीं मिली"
+
+#: docs.php:29
+msgid "Post your feedback about Album Gallery Plguin on WordPress.org"
+msgstr ""
+
+#: docs.php:30
+msgid "Post Feedback"
+msgstr ""
+
+#: new-album-gallery.php:48 new-album-gallery.php:110 new-album-gallery.php:111
+#: new-album-gallery.php:112 new-album-gallery.php:113 new-album-gallery.php:118
+#: new-album-gallery.php:127
+msgid "Album Gallery"
+msgstr "एल्बम गैलरी"
+
+#: new-album-gallery.php:99
+msgid "Column Settings"
+msgstr "कॉलम सेटिंग्स"
+
+#: new-album-gallery.php:100
+msgid "Docs"
+msgstr "डॉक्स"
+
+#: new-album-gallery.php:101
+msgid "Our Theme"
+msgstr "हमारी थीम"
+
+#: new-album-gallery.php:114
+msgid "Parent Item:"
+msgstr "अभिभावक आइटम:"
+
+#: new-album-gallery.php:115
+msgid "All Album Gallery"
+msgstr "सभी एल्बम गैलरी"
+
+#: new-album-gallery.php:116 new-album-gallery.php:117
+msgid "Add Album Gallery"
+msgstr "एल्बम गैलरी जोड़ें"
+
+#: new-album-gallery.php:119
+msgid "Edit Album Gallery"
+msgstr "एल्बम गैलरी संपादित करें"
+
+#: new-album-gallery.php:120
+msgid "Update Album Gallery"
+msgstr "एल्बम गैलरी अपडेट करें"
+
+#: new-album-gallery.php:121
+msgid "Search Album Gallery"
+msgstr "एल्बम गैलरी खोजें"
+
+#: new-album-gallery.php:122
+msgid "Album Gallery Not found"
+msgstr "एल्बम गैलरी नहीं मिली"
+
+#: new-album-gallery.php:123
+msgid "Album Gallery Not found in Trash"
+msgstr "ट्रैश में एल्बम गैलरी नहीं मिली"
+
+#: new-album-gallery.php:128
+msgid "Custom Post Type For Album Gallery"
+msgstr "एल्बम गैलरी के लिए कस्टम पोस्ट प्रकार"
+
+#: new-album-gallery.php:155
+msgid "Add Images"
+msgstr "छवियां जोड़ें"
+
+#: new-album-gallery.php:170
+msgid "Delete All Images"
+msgstr "सभी छवियों को हटाएं"
+
+#: new-album-gallery.php:221
+msgid "Image / Poster"
+msgstr "छवि / पोस्टर"
+
+#: new-album-gallery.php:226
+msgid "Copy Album Gallery Shortcode"
+msgstr "एल्बम गैलरी शोर्ट कॉपी करें"
+
+#: new-album-gallery.php:229
+msgid ""
+"Copy & Embed shotcode into any Page/ Post / Text Widget to display your album gallery "
+"on your site."
+msgstr ""
+"अपनी साइट पर अपनी एल्बम गैलरी प्रदर्शित करने के लिए किसी भी पेज / पोस्ट / टेक्स्ट विजेट में कॉपीकोड "
+"एम्बेड करें और एम्बेड करें."
+
+#: new-album-gallery.php:235
+msgid "ALBUM &nbsp; GALLERY &nbsp; SETTINGS"
+msgstr "एल्बम गैलरी सेटिंग्स"
